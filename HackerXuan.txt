@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola tios como estas
+=======
+HACKER THE HACKER EL DON XUAN
+>>>>>>> 3987eccef77bb859f418d9eaeed8921ec86acc33
